@@ -1,0 +1,59 @@
+.header {
+  background-color: lightblue;
+  color: black;
+}
+#logo {
+  width: 60px;
+  height: 60px;
+  background-color: lightblue;
+}
+.div_webcam {
+  background-color: lightpink;
+  padding: 20px;
+  margin-top: 20px;
+  border: 3px double black;
+}
+.div_webcam label {
+  background-color: lightseagreen;
+  color: black;
+  width: 70px;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-shadow:5px 10px 18px yellow;
+}
+
+#camera,#snapshot {
+  width: 300px;
+  height: 300px;
+  border: 3px double black;
+  box-shadow: 5px 5px 5px magenta;
+}
+.div_webcam button{
+    width:300px;
+    height:40px;
+    font-size:8px;
+    box-shadow: 5px 5px 5px aqua;
+    border:1px solid black;
+}
+.footer img{
+  width:90px;
+  height:100px;
+}
+.footer h4{
+  background-color:lightgreen;
+  border-radius:40px;
+  padding:10px;
+  box-shadow: 5px 5px 18px green; 
+}
+.footer{
+  margin-bottom:50px;
+}
+.copyright{
+  position:fixed;
+  color:black;
+  bottom:0;
+  width:100%;
+  line-height:3;
+  text-align:center;
+  background-color:white;
+}
